@@ -1,0 +1,1 @@
+(test (name lci_spec) (libraries lci ounit2))
